@@ -1,6 +1,6 @@
 **DF Quant – Inteligência Quantitativa para Investimentos de Alta Performance**
 
-!<img src="https://github.com/DennisFelixuff/Financas/blob/Finan%C3%A7as/logo_df_quant.jpeg" alt="Logo da Empresa" width = 200>
+<img src="https://github.com/DennisFelixuff/Financas/blob/Finan%C3%A7as/logo_df_quant.jpeg" alt="Logo da Empresa" width = 200>
 
 Introdução:
 No mundo dinâmico e imprevisível do mercado financeiro, a tomada de decisões embasadas em dados é essencial. 
