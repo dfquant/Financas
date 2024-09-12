@@ -1,4 +1,4 @@
-<img src="https://github.com/DennisFelixuff/Financas/blob/Finan%C3%A7as/logo_df_quant.jpeg" alt="Logo da Empresa" width = 200>
+<img src="logo_df_quant.svg" alt="Logo da Empresa" width = 200>
 
 **DF Quant – Inteligência Quantitativa para Investimentos de Alta Performance**
 
